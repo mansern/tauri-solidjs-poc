@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/mansern/tauri-solidjs-poc/blob/main/src/assets/ss.png?raw=true)
 
-This is a **Proof of Concept (POC)** built using **Tauri**, **SolidJS**, and **TypeScript**, aimed at exploring how to build lightweight, cross-platform **desktop applications** using modern web technologies, integrated with a **Bun.js** backend.
+This is a **Proof of Concept (POC)** built using **Tauri**, **SolidJS**, and **TypeScript**, aimed at exploring how to build lightweight, cross-platform **desktop applications** using modern web technologies, integrated with a **Bun.js** backend. The same codebase is compiled and runs as both a web application and a desktop application, showcasing the flexibility and power of these technologies to build cross-platform solutions.
 
 Developed by: **Muhammad Anser Naseer**  
 📧 **Email:** [muhammadin87@gmail.com]
