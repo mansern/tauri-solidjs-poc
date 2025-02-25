@@ -32,7 +32,7 @@ Developed by: **Muhammad Anser Naseer**
 
 ```bash
 git clone https://github.com/mansern/tauri-solidjs-poc
-cd https://github.com/mansern/tauri-solidjs-poc
+cd tauri-solidjs-poc
 npm install
 npm run tauri dev
 
