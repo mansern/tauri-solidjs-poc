@@ -2,7 +2,7 @@
 
 This is a **Proof of Concept (POC)** built using **Tauri**, **SolidJS**, and **TypeScript**, aimed at exploring how to build lightweight, cross-platform **desktop applications** using modern web technologies, integrated with a **Bun.js** backend.
 
-Developed by **Muhammad Anser Naseer**  
+Developed by: **Muhammad Anser Naseer**  
 📧 **Email:** [muhammadin87@gmail.com]
 
 ---
